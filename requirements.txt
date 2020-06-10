@@ -12,3 +12,4 @@ pandas>=0.19
 librosa==0.7.2
 aniso8601==8.0.0
 audioread==2.1.8
+SoundFile==0.10.3.post1
