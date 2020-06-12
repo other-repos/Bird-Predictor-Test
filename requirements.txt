@@ -13,3 +13,4 @@ librosa==0.7.2
 aniso8601==8.0.0
 audioread==2.1.5
 numba==0.34.0
+llvmlite==0.32.1
