@@ -13,7 +13,7 @@ librosa==0.7.2
 aniso8601==8.0.0
 audioread==2.1.5
 numba==0.50.0
-llvmlite==0.32.1
+llvmlite==0.33.0
 decorator==4.4.2
 joblib==0.15.1
 resampy==0.2.2
